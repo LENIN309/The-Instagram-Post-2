@@ -1,22 +1,40 @@
 body {
     background: black;
-    height: 100%;
-    margin: 0%;
+    height: 10%;
+    margin: 5%;
+    padding: auto;
 }
 
 .post{
 background: white;
 width: 350px;
 height: 700px;
-margin: 50px auto;
+margin: 50px auto;  
 }
 
 .post-img{
     display: flex;
     justify-content: center;
+    width: 100%;
 }
 .post-title{
-    display: flex;
+    display: flex;  
     justify-content: center;
     align-items: center;
 }
+ .post, .container{
+
+    margin:auto;
+    width: 350px;
+    height: 600px;
+    padding: 5px 10px;
+    border: 30px
+    
+
+    
+ }
+
+ .col{
+     margin: 10px;
+     width: 10px;
+ }
