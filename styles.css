@@ -26,7 +26,7 @@ margin: 50px auto;
 
     margin:auto;
     width: 350px;
-    height: 600px;
+    height: 520px;
     padding: 5px 10px;
     border: 30px
     
@@ -36,5 +36,24 @@ margin: 50px auto;
 
  .col{
      margin: 10px;
-     width: 10px;
+     display: flex;
+     justify-content: le;
+    
+
  }
+
+ .bookmark{
+
+    width: 50PX;
+
+
+ }
+
+ .ellipsis{
+     width: 35px;
+ }
+
+ .para{
+     font-size: small;
+ }
+ 
